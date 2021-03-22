@@ -33,7 +33,6 @@ ul{
 
 .cart-container{
   position: relative;
-  cursor: pointer;
 }
 
 .cart-outside-dom{
@@ -69,6 +68,8 @@ ul{
   position: relative;
   background: rgba(0,0,0, 0.6);
 }
+
+
 
 .showcase::before{
   content: '';
@@ -202,17 +203,23 @@ ul{
 
 /*SIDEBAR*/
 .sidebar{
+  transform: translateX(500px);
   position: fixed;
   top: 0;
   right: 0;
   background: #f4f4f4;
   width: 400px;
   height: 100%;
+  transition:all .5s;
 
   h2{
     margin: 2rem 0;
     text-align: center;
   }
+}
+
+.sidebar.show{
+  transform: translateX(0);
 }
 
 .sidebar-container{

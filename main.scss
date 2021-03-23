@@ -31,10 +31,6 @@ ul{
 }
 
 
-.cart-container{
-  position: relative;
-}
-
 .cart-outside-dom{
   position: absolute;
   top: -10px;
@@ -199,6 +195,11 @@ ul{
   a{
     color: #fff;
   }
+}
+
+.cart-container{
+  position: relative;
+  cursor: pointer;
 }
 
 /*SIDEBAR*/

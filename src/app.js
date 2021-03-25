@@ -31,7 +31,7 @@ const displayFeatured = (items) => {
     <img src=${item.image} alt="">
     <div class="items">
       <span class="search">
-        <a href="product.html">
+        <a href="product.html?id=1">
          <i class="fas fa-search"></i>
         </a>
       </span>

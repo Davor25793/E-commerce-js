@@ -255,5 +255,25 @@ ul{
   cursor: pointer;
 }
 
+.cart-total{
+  position: absolute;
+  bottom: 5%;
+  left: 40%;
+
+  &-amount{
+    font-size: 25px;
+
+  }
+}
+
+//Products
+.products{
+  background: #f4f4f4;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 

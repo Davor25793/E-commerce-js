@@ -1,16 +1,22 @@
 //Variables
-const cart = document.querySelector('.cart-container')
-const sidebar = document.querySelector('.sidebar')
-const close = document.querySelector('.close-cart')
-const featuredContainer = document.querySelector('.featured-container')
+ const cart = document.querySelector('.cart-container')
+ const sidebar = document.querySelector('.sidebar')
+ const close = document.querySelector('.close-cart')
+ const featuredContainer = document.querySelector('.featured-container')
 
-cart.addEventListener('click', () => {
-  sidebar.classList.add('show')
-})
 
-close.addEventListener('click', () => {
-  sidebar.classList.remove('show')
-})
+
+  //Open cart
+ cart.addEventListener('click', () => {
+    sidebar.classList.add('show')
+  })
+
+
+  //Close cart
+  close.addEventListener('click', () => {
+    sidebar.classList.remove('show')
+  })
+
 
 
 //Init
@@ -24,7 +30,7 @@ function init(){
 const displayFeatured = (items) => {
   let output = ''
   console.log(items)
-  const filt = items.filter(item => item.featured)
+  const filt = items.filter(item => item.onSale)
   filt.map(item => {
     output += `
     <div class="featured-item">

@@ -9,7 +9,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/adidas-1.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -22,7 +22,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/adidas-2.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -35,7 +35,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": true,
+      "onSale": true,
       "image": "./img/adidas-3.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -48,7 +48,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/adidas-4.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -61,7 +61,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/adidas-5.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -74,7 +74,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/converse-1.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -87,7 +87,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/nike-1.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -100,7 +100,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": true,
+      "onSale": true,
       "image": "./img/nike-2.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -113,7 +113,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/nike-3.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -126,7 +126,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/nike-4.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -139,7 +139,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": true,
+      "onSale": true,
       "image": "./img/puma-1.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -152,7 +152,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/puma-2.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -165,7 +165,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": true,
+      "onSale": true,
       "image": "./img/puma-3.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -178,7 +178,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/reebok-1.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     },
@@ -191,7 +191,7 @@
         "03a9fc",
         "03fc94"
       ],
-      "featured": false,
+      "onSale": false,
       "image": "./img/reebok-2.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione nam rerum sapiente nobis ipsam quas ut voluptate earum repudiandae."
     }

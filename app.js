@@ -67,7 +67,6 @@ function loadJSON(){
     })
     .catch(error => {
         alert(`User live server or local server`);
-        //URL scheme must be "http" or "https" for CORS request. You need to be serving your index.html locally or have your site hosted on a live server somewhere for the Fetch API to work properly.
     })
 }
 
@@ -163,10 +162,10 @@ function deleteProduct(e){
     let cartItem;
     if(e.target.tagName === "BUTTON"){
         cartItem = e.target.parentElement;
-        cartItem.remove(); // this removes from the DOM only
+        cartItem.remove();
     } else if(e.target.tagName === "I"){
         cartItem = e.target.parentElement.parentElement;
-        cartItem.remove(); // this removes from the DOM only
+        cartItem.remove(); 
     }
 
     let products = getProductFromStorage();
